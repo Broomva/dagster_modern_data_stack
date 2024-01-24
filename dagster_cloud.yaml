@@ -1,0 +1,4 @@
+locations:
+- code_source:
+    package_name: assets_modern_data_stack
+  location_name: dagster_modern_data_stack
